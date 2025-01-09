@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.section-joker{
+  align-items: center;
+}
+
+body{
+  background-color: #BCF2F6;
+}
+
+.img-joker{
+  width: 80%;
+}
+
+.card-joker{
+  align-items: center;
+  width: 50%;
+  margin: 15px auto;
+  border: 0;
+  background-color: #BCF2F6;
+}
