@@ -11,9 +11,10 @@ API DeepL is used for translation (at the moment it is only available for Spanis
 Screenshots of your app and/or a link to your live demo
 
 ## Installation
-Once you import the repository, you need to start the backend service that is intact with the DeepL API call:
+- Once you import the repository, you need to start the backend service that is intact with the DeepL API call:
 ```node src/backend/server.js```
-Después inciamos el app web:
+
+- Then we start the web app:
 ```npm run dev```
 
 ## License
